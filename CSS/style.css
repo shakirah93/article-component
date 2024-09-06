@@ -1,0 +1,35 @@
+body {
+    background-color: hsl(210, 46%, 95%);
+    margin: 0;
+    display: flex;
+}
+.section {
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    width: 100%;
+    margin: 50px auto;
+}
+.section img {
+    float: left;
+    width: 40%;
+    
+}
+.section h2 {
+    margin: 40px;
+    font-size: 30px;
+    color:hsl(217, 19%, 35%) ;
+}
+.section p {
+    margin: 40px;
+    font-size: 40px;
+    color: hsl(212, 23%, 69%);
+}
+footer img{
+  border-radius: 40px;  
+}
+.footer {
+    display: flex;
+    align-items: end;
+    
+}
